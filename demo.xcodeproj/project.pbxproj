@@ -19,6 +19,7 @@
 		1C4461AD2704112500E495E9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1C4461AF2704112700E495E9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C4461B22704112700E495E9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1C4A00B727041BCF0029F46B /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MyPlayground.playground; path = ../MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		1C44619F2704112500E495E9 = {
 			isa = PBXGroup;
 			children = (
+				1C4A00B727041BCF0029F46B /* MyPlayground.playground */,
 				1C4461AA2704112500E495E9 /* demo */,
 				1C4461A92704112500E495E9 /* Products */,
 			);
